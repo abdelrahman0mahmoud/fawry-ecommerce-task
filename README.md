@@ -24,8 +24,8 @@ Handles common errors like:
 - Automatically ships all shippable items with total weight.
 
 ## ✅ Sample Outputs
-- case1: Normal Checkout 
-- case2: Empty Cart case
-- case3: Insufficient balance
-- case4: Expired Products
-- case5: out-of-stock items
+- Case1 : Normal Checkout 
+- Case2 : Empty Cart case
+- Case3 : Insufficient balance
+- Case4 : Expired Products
+- Case5 : out-of-stock items
