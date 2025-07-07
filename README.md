@@ -26,6 +26,13 @@ Handles common errors like:
 ## ✅ Sample Outputs
 - Case1 : Normal Checkout
   ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/1.png?raw=true)
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/1-1.png?raw=true)
 - Case2 : Empty Cart case
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/2.png?raw=true)
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/2-2.png?raw=true)
 - Case3 : Insufficient balance
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/3.png?raw=true)
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/3-3.png?raw=true)
 - Case4 : Expired Products
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/4.png?raw=true)
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/4-4.png?raw=true)
