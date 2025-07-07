@@ -24,8 +24,8 @@ Handles common errors like:
 - Automatically ships all shippable items with total weight.
 
 ## ✅ Sample Outputs
-- Case1 : Normal Checkout 
+- Case1 : Normal Checkout
+  ![image_alt](https://github.com/abdelrahman0mahmoud/fawry-ecommerce-task/blob/main/Cases/1.png?raw=true)
 - Case2 : Empty Cart case
 - Case3 : Insufficient balance
 - Case4 : Expired Products
-- Case5 : out-of-stock items
